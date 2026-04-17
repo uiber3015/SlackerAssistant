@@ -45,6 +45,7 @@ pnpm run build
 ├── dist/              # 构建后的文件（可直接使用）
 │   ├── index.html     # 入口文件
 │   └── bundle.js      # 打包后的 JS
+├── images/            # 运行截图
 ├── src/               # 源代码
 │   ├── App.tsx        # 主应用组件
 │   ├── index.tsx      # 入口文件
@@ -55,6 +56,16 @@ pnpm run build
 ├── webpack.config.js  # Webpack 配置
 └── tailwind.config.js # Tailwind 配置
 ```
+
+## 项目预览
+
+<div align="center">
+  <img src="images/1.png" width="400"/>
+  <img src="images/2.png" width="400"/>
+  <img src="images/3.png" width="400"/>
+  <img src="images/4.png" width="400"/>
+</div>
+
 
 ## 🎯 使用技巧
 
